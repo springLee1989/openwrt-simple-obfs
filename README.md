@@ -13,7 +13,7 @@ Simple-obfs for OpenWrt
    # 添加 feeds
    git clone https://github.com/shadowsocks/openwrt-feeds.git package/feeds
    # 获取 simple-obfs Makefile
-   git clone https://github.com/aa65535/openwrt-simple-obfs.git package/simple-obfs
+   git clone https://github.com/springLee1989/openwrt-simple-obfs.git package/simple-obfs
    # 选择要编译的包 Network -> simple-obfs
    make menuconfig
    # 开始编译
